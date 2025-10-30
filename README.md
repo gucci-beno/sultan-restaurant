@@ -12,6 +12,7 @@
 This project has been carried out as part of the Professional Internship module at Edinburgh Napier University.
 
 ## Author
-# Ben Atagan
-# BEng Software Engineering, Edinburgh
-# beno.atagan@gmail.com
+### Ben Atagan
+### BEng Software Engineering, Edinburgh
+### beno.atagan@gmail.com
+
